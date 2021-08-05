@@ -1,7 +1,9 @@
-### Hi there 👋
- VK - @sacring
- TG - @heartabuserr
- DISCORD - rod9#0001
+
+ >VK - @sacring
+ 
+ >TG - @heartabuserr
+ 
+ >DISCORD - rod9#0001
 <!--
 **rod9xyz/rod9xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
