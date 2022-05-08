@@ -1,4 +1,4 @@
-> ayo.so/animlayer
+![](https://github.com/rod9xyz/rod9xyz/blob/main/katana-zero.gif)
 <!--
 **rod9xyz/rod9xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 > ayo.so/animlayer
